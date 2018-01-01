@@ -1,3 +1,14 @@
+Dungeon^3/Library/
+Dungeon^3/Temp/
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
